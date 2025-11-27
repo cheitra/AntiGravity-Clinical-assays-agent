@@ -1,0 +1,18 @@
+{
+    "experiment_id": "EXP-TEST",
+    "title": "Test Protocol",
+    "investigator": "Tester",
+    "sample_size": 10,
+    "inclusion_criteria": [
+        "None"
+    ],
+    "exclusion_criteria": [
+        "None"
+    ],
+    "ethics_approval": {
+        "approved": false,
+        "approval_number": null,
+        "date": null
+    },
+    "required_documents": []
+}
