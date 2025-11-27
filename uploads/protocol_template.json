@@ -1,0 +1,23 @@
+{
+  "experiment_id": "EXP-001",
+  "title": "Clinical Experiment Title",
+  "investigator": "Dr. Name",
+  "sample_size": 100,
+  "inclusion_criteria": [
+    "Age 18-65",
+    "Healthy volunteer"
+  ],
+  "exclusion_criteria": [
+    "History of heart disease",
+    "Pregnancy"
+  ],
+  "ethics_approval": {
+    "approved": true,
+    "approval_number": "1",
+    "date": "2025-11-27"
+  },
+  "required_documents": [
+    "Informed Consent Form",
+    "Case Report Form"
+  ]
+}
